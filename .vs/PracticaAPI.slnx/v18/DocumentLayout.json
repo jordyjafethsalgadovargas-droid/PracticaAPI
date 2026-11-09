@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\practicaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:practicaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\practicaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:practicaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|c:\\users\\jordy\\source\\repos\\practicaapi\\configjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4B3E3-D00F-B147-0EC3-9AB2CD881FEF}|PracticaAPI.csproj|solutionrelative:configjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticaAPI",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\PracticaAPI.csproj",
+              "RelativeDocumentMoniker": "PracticaAPI.csproj",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\PracticaAPI.csproj",
+              "RelativeToolTip": "PracticaAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T03:43:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticaAPI.http",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\PracticaAPI.http",
+              "RelativeDocumentMoniker": "PracticaAPI.http",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\PracticaAPI.http",
+              "RelativeToolTip": "PracticaAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-09T03:40:43.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:18:28.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\AppDb.cs",
+              "RelativeDocumentMoniker": "AppDb.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\AppDb.cs",
+              "RelativeToolTip": "AppDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:22:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:21:26.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Controllers\\RegistroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:16:56.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "Controllers\\PerfilController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:22:26.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Model.cs",
+              "RelativeDocumentMoniker": "Model.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Model.cs",
+              "RelativeToolTip": "Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:19:07.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T14:48:48.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigJwt.cs",
+              "DocumentMoniker": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\ConfigJwt.cs",
+              "RelativeDocumentMoniker": "ConfigJwt.cs",
+              "ToolTip": "C:\\Users\\Jordy\\source\\repos\\PracticaAPI\\ConfigJwt.cs",
+              "RelativeToolTip": "ConfigJwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:42:10.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
